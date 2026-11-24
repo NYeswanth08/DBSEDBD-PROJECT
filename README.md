@@ -413,6 +413,7 @@ The repository includes the complete **123-page academic engineering documentati
 **Koneru Lakshmaiah Education Foundation (KL University)**  
 Bowrampet, Hyderabad, Telangana — 500043, India  
 Academic Year: 2026–2027
+NKR4QC
 
 ---
 
